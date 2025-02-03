@@ -27,7 +27,7 @@ main {
     background-color: #2C363C;
     color: #e0e0e0;
     
-    border: 1px solid #2D3133;
+    border: 2px solid #2D3133;
     border-radius: 15px;
 
     padding: 20px;
@@ -41,7 +41,7 @@ main {
 .screen {
     background-color: #e0e0e0;
     border-radius: 8px;
-    border: 1px solid #2C363C;
+    border: 2px solid #2C363C;
     color: #2C363C;
     font-size: 35px;
     overflow: auto;
@@ -57,7 +57,7 @@ main {
 
 .calc-button {
     background-color: #3C7191;
-    border: 1px solid #2D3133;
+    border: 2px solid #2D3133;
     border-radius: 8px;
     color: #e0e0e0;
     flex-basis: 20%;
